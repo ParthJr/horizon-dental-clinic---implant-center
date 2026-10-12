@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Dental Clinic & Implant Center",
+  "description": "Horizon Dental Clinic and Implant Center in Sargasan, Gandhinagar. Specialized implantology, digital CBCT diagnostics, verified treatment directory, and online consultation enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
